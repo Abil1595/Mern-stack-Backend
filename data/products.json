@@ -6,7 +6,7 @@
     "ratings": 5,
     "images": [
         {
-            "image": "/images/products/murukku.jpg"
+            "image": "http://localhost:5500/uploads/product/murukku.jpg"
         }
     ],  
     "category": "SNACKS",
@@ -22,7 +22,7 @@
     "ratings": 4,
     "images": [
         {
-            "image": "/images/products/banana_salt.jpg"
+            "image": "http://localhost:5500/uploads/product/banana_salt.jpg"
         }
     ], 
     "category": "SNACKS",
@@ -38,7 +38,7 @@
     "ratings": 3,
     "images": [
         {
-            "image": "/images/products/casavva_salt.jpg"
+            "image": "http://localhost:5500/uploads/casavva_salt.jpg"
         }
     ], 
     "category": "SNACKS",
