@@ -1,0 +1,1652 @@
+[
+{
+    "name": "Murukku",
+    "price": 1,
+    "description": "Snacks come in many forms, including packaged snack foods, processed foods, and items made from fresh ingredients.",
+    "ratings": 5,
+    "images": [
+        {
+            "image": "/images/products/murukku.jpg"
+        }
+    ],  
+    "category": "SNACKS",
+    "Brand": "Iyappaa", 
+    "stock": 6, 
+    "numOfReviews": 9,  
+    "reviews": [] 
+}, 
+{
+    "name": "Banana Salt",
+    "price": 25,
+    "description": "come in many forms,  processed foods, and items made from fresh ingredients.",
+    "ratings": 4,
+    "images": [
+        {
+            "image": "/images/products/banana_salt.jpg"
+        }
+    ], 
+    "category": "SNACKS",
+    "Brand": "Iyappaa", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Casavva Salt",
+    "price": 25,
+    "description": " chips come in many forms,  processed foods, and items made from fresh ingredients.",
+    "ratings": 3,
+    "images": [
+        {
+            "image": "/images/products/casavva_salt.jpg"
+        }
+    ], 
+    "category": "SNACKS",
+    "Brand": "Iyappaa", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Banana Spicy",
+    "price": 25,
+    "description": "  come in many forms, and items made from fresh ingredients.",
+    "ratings": 3,
+    "images": [
+        {
+            "image": "/images/products/banana_spicy.jpg"
+        }
+    ], 
+    "category": "SNACKS",
+    "Brand": "Iyappaa", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Blackallu",
+    "price": 25,
+    "description": "  come in many forms, and items made from fresh ingredients.",
+    "ratings": 3,
+    "images": [
+        {
+            "image": "/images/products/Blackallu.jpg"
+        }
+    ], 
+    "category": "SNACKS",
+    "Brand": "Iyappaa", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+
+{
+    "name": "Whiteallu",
+    "price": 25,
+    "description": " processed foods, and items made from fresh ingredients.",
+    "ratings": 3,
+    "images": [
+        {
+            "image": "/images/products/whiteallu.jpg"
+        }
+    ], 
+    "category": "SNACKS",
+    "Brand": "Iyappaa", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Peanut Halwa",
+    "price": 25,
+    "description": " Nice product good for health, and items made from fresh ingredients.",
+    "ratings": 3,
+    "images": [
+        {
+            "image": "/images/products/peanut_halwa.jpg"
+        }
+    ], 
+    "category": "SNACKS",
+    "Brand": "Iyappaa", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Peanut Ball",
+    "price": 25,
+    "description": "  items made from fresh ingredients.",
+    "ratings": 3,
+    "images": [
+        {
+            "image": "/images/products/peanut_ball.jpg"
+        }
+    ], 
+    "category": "SNACKS",
+    "Brand": "Iyappaa", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Sakaravaratti",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 3,
+    "images": [
+        {
+            "image": "/images/products/sakaravaratti.png"
+        }
+    ], 
+    "category": "SNACKS",
+    "Brand": "Iyappaa", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Kamarkattu",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 3,
+    "images": [
+        {
+            "image": "/images/products/kamarkat.png"
+        }
+    ], 
+    "category": "SNACKS",
+    "Brand": "Iyappaa", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Plaintain Chips",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 3,
+    "images": [
+        {
+            "image": "/images/products/plaintain_chips.jpg"
+        }
+    ], 
+    "category": "SNACKS",
+    "Brand": "Iyappaa", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Spicy Plaintain Chips",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 3,
+    "images": [
+        {
+            "image": "/images/products/spicy_plaintain_chips.jpg"
+        }
+    ], 
+    "category": "SNACKS",
+    "Brand": "Iyappaa", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Casavva Spicy",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 3,
+    "images": [
+        {
+            "image": "/images/products/casavva_spicy.jpg"
+        }
+    ], 
+    "category": "SNACKS",
+    "Brand": "Iyappaa", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Casavva Finger Chips",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 3,
+    "images": [
+        {
+            "image": "/images/products/finger_chips.jpg"
+        }
+    ], 
+    "category": "SNACKS",
+    "Brand": "Iyappaa", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Achu Murukku",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 3,
+    "images": [
+        {
+            "image": "/images/products/achu_murukku.jpg"
+        }
+    ], 
+    "category": "SNACKS",
+    "Brand": "Iyappaa", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Casava Finger Chips",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 3,
+    "images": [
+        {
+            "image": "/images/products/casavva_finger_chips.jpg"
+        }
+    ], 
+    "category": "SNACKS",
+    "Brand": "Iyappaa", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Kai Murukku",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 3,
+    "images": [
+        {
+            "image": "/images/products/kai_murukku.jpg"
+        }
+    ], 
+    "category": "SNACKS",
+    "Brand": "Iyappaa", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Rice Murukku",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 3,
+    "images": [
+        {
+            "image": "/images/products/rice_murukku.jpg"
+        }
+    ], 
+    "category": "SNACKS",
+    "Brand": "Iyappaa", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Casavva Plain Chips",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 3,
+    "images": [
+        {
+            "image": "/images/products/casavva_plain_chips.jpg"
+        }
+    ], 
+    "category": "SNACKS",
+    "Brand": "Iyappaa", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Mini Murukku",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 3,
+    "images": [
+        {
+            "image": "/images/products/mini_murukku.jpg"
+        }
+    ], 
+    "category": "SNACKS",
+    "Brand": "Iyappaa", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Large Murukku",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 3,
+    "images": [
+        {
+            "image": "/images/products/large_murukku.jpg"
+        }
+    ], 
+    "category": "SNACKS",
+    "Brand": "Iyappaa", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+
+{
+    "name": "Ladduu",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 3,
+    "images": [
+        {
+            "image": "/images/products/laddu.jpg"
+        }
+    ], 
+    "category": "SWEETS",
+    "Brand": "Iyappaa", 
+    "stock": 6, 
+    "numOfReviews": 9, 
+    "reviews": []
+},
+{ 
+    "name": "Jillebi",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 3,
+    "images": [
+        {
+            "image": "/images/products/Jillebi.jpg"
+        }
+    ], 
+    "category": "SWEETS",
+    "Brand": "Iyappaa", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Mixed Halwa",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 3,
+    "images": [
+        {
+            "image": "/images/products/halwa.jpg"
+        }
+    ], 
+    "category": "SWEETS",
+    "Brand": "Iyappaa", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Mysorepak",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 3,
+    "images": [
+        {
+            "image": "/images/products/mysorepak.jpg"
+        }
+    ], 
+    "category": "SWEETS",
+    "Brand": "Iyappaa", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Kambu",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 3,
+    "images": [
+        {
+            "image": "/images/products/kambu.jpg"
+        }
+    ], 
+    "category": "GROCERIES",
+    "Brand": "Iyappaa", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Horse Gram",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 3,
+    "images": [
+        {
+            "image": "/images/products/horsegram.jpeg"
+        }
+    ], 
+    "category": "GROCERIES",
+    "Brand": "Iyappaa", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Ragi Powder",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 3,
+    "images": [
+        {
+            "image": "/images/products/ragiflour.jpg"
+        }
+    ], 
+    "category": "GROCERIES",
+    "Brand": "Iyappaa", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Sago",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 3,
+    "images": [
+        {
+            "image": "/images/products/sago.jpg"
+        }
+    ], 
+    "category": "GROCERIES",
+    "Brand": "Iyappaa", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Coconut Powder",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 3,
+    "images": [
+        {
+            "image": "/images/products/coconutpowder.jpg"
+        }
+    ], 
+    "category": "GROCERIES",
+    "Brand": "Iyappaa", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "White Avul",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 3,
+    "images": [
+        {
+            "image": "/images/products/poha.jpeg"
+        }
+    ], 
+    "category": "GROCERIES",
+    "Brand": "Iyappaa", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Red Avul",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 3,
+    "images": [
+        {
+            "image": "/images/products/redpoha.jpeg"
+        }
+    ], 
+    "category": "GROCERIES",
+    "Brand": "Iyappaa", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Achu Vellam",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 3,
+    "images": [
+        {
+            "image": "/images/products/jaggery.jpg"
+        }
+    ], 
+    "category": "GROCERIES",
+    "Brand": "Iyappaa", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Vellam Round",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 3,
+    "images": [
+        {
+            "image": "/images/products/vellam.jpg"
+        }
+    ], 
+    "category": "GROCERIES",
+    "Brand": "Iyappaa", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Vellam Powder",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 3,
+    "images": [
+        {
+            "image": "/images/products/jaggerypowder1.jpg"
+        }
+    ], 
+    "category": "GROCERIES",
+    "Brand": "Iyappaa", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Roasted Gram",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 3,
+    "images": [
+        {
+            "image": "/images/products/pottukadalai1.jpg"
+        }
+    ], 
+    "category": "GROCERIES",
+    "Brand": "Iyappaa", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Asafoetida Powder",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 3,
+    "images": [
+        {
+            "image": "/images/products/asafoedida.jpg"
+        }
+    ], 
+    "category": "GROCERIES",
+    "Brand": "Iyappaa", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Dosa Batter",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 3,
+    "images": [
+        {
+            "image": "/images/products/dosabatter.jpg"
+        }
+    ], 
+    "category": "GROCERIES",
+    "Brand": "Iyappaa", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Sea Salt 1Kg",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 3,
+    "images": [
+        {
+            "image": "/images/products/salt.jpg"
+        }
+    ], 
+    "category": "GROCERIES",
+    "Brand": "Iyappaa", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Himalayan Salt Powder",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 3,
+    "images": [
+        {
+            "image": "/images/products/himalayan_salt_powder.png"
+        }
+    ], 
+    "category": "GROCERIES",
+    "Brand": "Iyappaa", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Himalayan Crystal Salt",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 3,
+    "images": [
+        {
+            "image": "/images/products/himalayan_crystal_salt.png"
+        }
+    ], 
+    "category": "GROCERIES",
+    "Brand": "Iyappaa", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Appalam",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 3,
+    "images": [
+        {
+            "image": "/images/products/appalam.png"
+        }
+    ], 
+    "category": "GROCERIES",
+    "Brand": "Iyappaa", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Color Fryums",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 3,
+    "images": [
+        {
+            "image": "/images/products/color_fryums.png"
+        }
+    ], 
+    "category": "GROCERIES",
+    "Brand": "Iyappaa", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Fryums",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 3,
+    "images": [
+        {
+            "image": "/images/products/fryums.png"
+        }
+    ], 
+    "category": "GROCERIES",
+    "Brand": "Iyappaa", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Mango Pickle",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 3,
+    "images": [
+        {
+            "image": "/images/products/mangopickle.jpg"
+        }
+    ], 
+    "category": "GROCERIES",
+    "Brand": "Iyappaa", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Lemon Pickle",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 3,
+    "images": [
+        {
+            "image": "/images/products/lemonpickle.jpg"
+        }
+    ], 
+    "category": "GROCERIES",
+    "Brand": "Iyappaa", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Chickpeas",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 3,
+    "images": [
+        {
+            "image": "/images/products/chickpeas.png"
+        }
+    ], 
+    "category": "GROCERIES",
+    "Brand": "Iyappaa", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Raw Cashew",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 3,
+    "images": [
+        {
+            "image": "/images/products/cashew.png"
+        }
+    ], 
+    "category": "GROCERIES",
+    "Brand": "Iyappaa", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Raw Peanut",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 3,
+    "images": [
+        {
+            "image": "/images/products/raw_peanut.png"
+        }
+    ], 
+    "category": "GROCERIES",
+    "Brand": "Iyappaa", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Roasted Cashew",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 3,
+    "images": [
+        {
+            "image": "/images/products/roasted_cashew.png"
+        }
+    ], 
+    "category": "GROCERIES",
+    "Brand": "Iyappaa", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Roasted Peanut",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 3,
+    "images": [
+        {
+            "image": "/images/products/roasted_peanut.png"
+        }
+    ], 
+    "category": "GROCERIES",
+    "Brand": "Iyappaa", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Ragi Vermicelli",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 3,
+    "images": [
+        {
+            "image": "/images/products/ragi_vermicelli.webp"
+        }
+    ], 
+    "category": "GROCERIES",
+    "Brand": "Anil", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Tarmarind Vermicelli",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 3,
+    "images": [
+        {
+            "image": "/images/products/tarmarind_vermicelli.png"
+        }
+    ], 
+    "category": "GROCERIES",
+    "Brand": "Anil", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Roastedshort Vermicelli",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 3,
+    "images": [
+        {
+            "image": "/images/products/roastedshort_vermicelli.webp"
+        }
+    ], 
+    "category": "GROCERIES",
+    "Brand": "Anil", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Rice Vermicelli",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 3,
+    "images": [
+        {
+            "image": "/images/products/rice_vermicelli.jpeg"
+        }
+    ], 
+    "category": "GROCERIES",
+    "Brand": "Anil", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Narasus Instant Strong",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 5,
+    "images": [
+        {
+            "image": "/images/products/narasus_instant_strong.jpg"
+        }
+    ], 
+    "category": "GROCERIES",
+    "Brand": "Narasus", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Narasus Premium Blend",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 5,
+    "images": [
+        {
+            "image": "/images/products/narasus_premium_blend.jpg"
+        }
+    ], 
+    "category": "GROCERIES",
+    "Brand": "Narasus", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Narasus Pure Strong",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 5,
+    "images": [
+        {
+            "image": "/images/products/narasus_pure_strong.jpeg"
+        }
+    ], 
+    "category": "GROCERIES",
+    "Brand": "Narasus", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Narasus Udhayam",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 5,
+    "images": [
+        {
+            "image": "/images/products/narasus_udhayam.jpeg"
+        }
+    ], 
+    "category": "GROCERIES",
+    "Brand": "Narasus", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Cothas Coffee Blend",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 5,
+    "images": [
+        {
+            "image": "/images/products/cothas_coffee_blend.png"
+        }
+    ], 
+    "category": "GROCERIES",
+    "Brand": "Cothas", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Cothas Speciality Blend Coffee",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 5,
+    "images": [
+        {
+            "image": "/images/products/cothas_speciality_blend.png"
+        }
+    ], 
+    "category": "GROCERIES",
+    "Brand": "Cothas", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Manna Mix",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 5,
+    "images": [
+        {
+            "image": "/images/products/manna.jpg"
+        }
+    ], 
+    "category": "GROCERIES",
+    "Brand": "Manna Mix", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Perungayam",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 5,
+    "images": [
+        {
+            "image": "/images/products/perungayam.webp"
+        }
+    ], 
+    "category": "GROCERIES",
+    "Brand": "LG", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Rajam Sukku",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 5,
+    "images": [
+        {
+            "image": "/images/products/rajam_sukku.jpg"
+        }
+    ], 
+    "category": "GROCERIES",
+    "Brand": "Rajam", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Nijam Pakku",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 5,
+    "images": [
+        {
+            "image": "/images/products/nijam_pakku.webp"
+        }
+    ], 
+    "category": "GROCERIES",
+    "Brand": "Nijam", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Tata Salt",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 5,
+    "images": [
+        {
+            "image": "/images/products/tata_salt.webp"
+        }
+    ], 
+    "category": "GROCERIES",
+    "Brand": "Tata", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Lion Dates",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 5,
+    "images": [
+        {
+            "image": "/images/products/lion_layina_dates.webp"
+        }
+    ], 
+    "category": "GROCERIES",
+    "Brand": "Lion Dates", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Lion Dates Syrup",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 5,
+    "images": [
+        {
+            "image": "/images/products/lion_dates_syrup.jpg"
+        }
+    ], 
+    "category": "GROCERIES",
+    "Brand": "Lion Dates", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Orange Candy",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 5,
+    "images": [
+        {
+            "image": "/images/products/orangecandy.jpg"
+        }
+    ], 
+    "category": "CANDIES",
+    "Brand": "Iyappaa", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Lollypop",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 5,
+    "images": [
+        {
+            "image": "/images/products/lollypop2.jpg"
+        }
+    ], 
+    "category": "CANDIES",
+    "Brand": "Iyappaa", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Imily",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 5,
+    "images": [
+        {
+            "image": "/images/products/imily1.webp"
+        }
+    ], 
+    "category": "CANDIES",
+    "Brand": "Iyappaa", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Amrith Candy 1",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 5,
+    "images": [
+        {
+            "image": "/images/products/a1.jpg"
+        } 
+    ], 
+    "category": "CANDIES",
+    "Brand": "Amrith", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Amrith Candy 2",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 5,
+    "images": [
+        {
+            "image": "/images/products/a1.jpg"
+        }
+    ], 
+    "category": "CANDIES",
+    "Brand": "Amrith", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Venbaa Candy 1",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 5,
+    "images": [
+        {
+            "image": "/images/products/image1C.jpg"
+        }
+    ], 
+    "category": "CANDIES",
+    "Brand": "Venbaa", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Venbaa Candy 2",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 5,
+    "images": [
+        {
+            "image": "/images/products/image2C.jpg"
+        }
+    ], 
+    "category": "CANDIES",
+    "Brand": "Venbaa", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Thanjavur Ponni Rice",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 5,
+    "images": [
+        {
+            "image": "/images/products/rice1.jpg"
+        }
+    ], 
+    "category": "RICE",
+    "Brand": "Amrith", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Kanchipuram Idly Rice",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 5,
+    "images": [
+        {
+            "image": "/images/products/idly rice.png"
+        }
+    ], 
+    "category": "RICE",
+    "Brand": "Amrith", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Palakkadam matta Rice",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 5,
+    "images": [
+        {
+            "image": "/images/products/rice.jpg"
+        }
+    ], 
+    "category": "RICE",   
+    "Brand": "Amrith", 
+    "stock": 6, 
+    "numOfReviews": 9, 
+    "reviews": []
+},
+{
+    "name": "Basmati Rice",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 5,
+    "images": [
+        {
+            "image": "/images/products/rice.jpg"
+        }
+    ], 
+    "category": "RICE",
+    "Brand": "Amrith", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Little Krishna Rice",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 5,
+    "images": [
+        {
+            "image": "/images/products/rice1.jpg"
+        }
+    ], 
+    "category": "RICE",
+    "Brand": "Little Krishna", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+
+{
+    "name": "Coconut Oil",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 5,
+    "images": [
+        {
+            "image": "/images/products/coconutoil.jpg"
+        }
+    ], 
+    "category": "OIL",
+    "Brand": "Venbaa", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Groundnut Oil",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 5,
+    "images": [
+        {
+            "image": "/images/products/groundnutoil.jpg"
+        }
+    ], 
+    "category": "OIL",
+    "Brand": "Venbaa", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Castor Oil",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 5,
+    "images": [
+        {
+            "image": "/images/products/castoroil.jpg"
+        }
+    ], 
+    "category": "OIL",
+    "Brand": "Venbaa", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Neem Oil",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 5,
+    "images": [
+        {
+            "image": "/images/products/neemoil.jpg"
+        }
+    ], 
+    "category": "OIL",
+    "Brand": "Venbaa", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Panchdeepam Oil",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 5,
+    "images": [
+        {
+            "image": "/images/products/panchdeepamoil.jpg"
+        }
+    ], 
+    "category": "OIL",
+    "Brand": "Venbaa", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Ghee",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 5,
+    "images": [
+        {
+            "image": "/images/products/ghee.jpg"
+        }
+    ], 
+    "category": "OIL",
+    "Brand": "Amrith", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Idhayam Sesame Oil",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 5,
+    "images": [
+        {
+            "image": "/images/products/idhayam.jpg"
+        }
+    ], 
+    "category": "OIL",
+    "Brand": "Idhayam", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Idhayam Mustard Oil",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 5,
+    "images": [
+        {
+            "image": "/images/products/idhayam1.jpeg"
+        }
+    ], 
+    "category": "OIL",
+    "Brand": "Idhayam", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Gold Winner Oil",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 5,
+    "images": [
+        {
+            "image": "/images/products/goldwinner.jpg"
+        }
+    ],  
+    "category": "OIL",
+    "Brand": "Gold Winner", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Deepam Oil",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 5,
+    "images": [
+        {
+            "image": "/images/products/deepam.webp"
+        }
+    ], 
+    "category": "OIL",
+    "Brand": "Gold Winner", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Gokul Santol",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 5,
+    "images": [
+        {
+            "image": "/images/products/gokul_santol.jpg"
+        }
+    ], 
+    "category": "HERBAL",
+    "Brand": "GokulSantol", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Gokul Floral",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 5,
+    "images": [
+        {
+            "image": "/images/products/gokul_floral.jpeg"
+        }
+    ], 
+    "category": "HERBAL",
+    "Brand": "GokulSantol", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Preethi Platinum Mixer Grinder",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 5,
+    "images": [
+        {
+            "image": "/images/products/preethi_blue_leaf.jpg"
+        }
+    ], 
+    "category": "HOMEAPPLIANCES",
+    "Brand": "Preethi", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Preethi Eco Plus Retro Red Mixer Grinder",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 5,
+    "images": [
+        {
+            "image": "/images/products/eco.webp"
+        }
+    ], 
+    "category": "HOMEAPPLIANCES",
+    "Brand": "Preethi", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Preethi Steel Supreme Mixer Grinder",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 5,
+    "images": [
+        {
+            "image": "/images/products/steel.webp"
+        }
+    ], 
+    "category": "HOMEAPPLIANCES",
+    "Brand": "Preethi", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Stainless Steel Preethi WaterBottle 1000ml",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 5,
+    "images": [
+        {
+            "image": "/images/products/waterbottle.jpg"
+        }
+    ], 
+    "category": "HOMEAPPLIANCES",
+    "Brand": "Preethi", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Prestige Flip On",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 5,
+    "images": [
+        {
+            "image": "/images/products/prestige_flip_on.jpg"
+        }
+    ], 
+    "category": "HOMEAPPLIANCES",
+    "Brand": "Prestige", 
+    "stock": 6, 
+    "numOfReviews": 9, 
+    "reviews": []
+},
+{
+    "name": "Prestige Svachh",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 5,
+    "images": [
+        {
+            "image": "/images/products/prestige_svachh.jpg"
+        }
+    ], 
+    "category": "HOMEAPPLIANCES",
+    "Brand": "Prestige", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Milton Flask",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 5,
+    "images": [
+        {
+            "image": "/images/products/milton_flask.jpg"
+        }
+    ], 
+    "category": "HOMEAPPLIANCES",
+    "Brand": "Milton", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "name": "Incense stick",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 5,
+    "images": [
+        {
+            "image": "/images/products/incensestick.webp"
+        },
+        {
+            "image": "/images/products/incensesticknew.jpg"
+        }
+    ], 
+    "category": "POOJAITEMS",
+    "Brand": "Incense stick", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": [] 
+},
+{
+    "name": "Kungumam",
+    "price": 25,
+    "description": " Eat Healthy foods, and items made from fresh ingredients.",
+    "ratings": 5,
+    "images": [
+        {
+            "image": "/images/products/Kungumam.jpg"
+        }
+    ], 
+    "category": "POOJAITEMS",
+    "Brand": "Kungumam", 
+    "stock": 6, 
+    "numOfReviews": 9,
+    "reviews": []
+},
+{
+    "success": true,
+    "product": {
+        "name": "RICE MURUKKU",
+        "price": 10,
+        "offerprice": 5,
+        "description": "Snacks come in many forms, including packaged snack foods, processed foods, and items made from fresh ingredients",
+        "ratings": "4.5",
+        "images": [
+            {
+                "image": "http://localhost:5500/uploads/product/7.jpg",
+                "_id": "6728be887e36666b0697faec"
+            }
+        ],
+        "category": "SNACKS",
+        "Brand": "Iyappaa",
+        "stock": 5,
+        "numofReviews": 0,
+        "user": "6717797acee84abba7838fc6",
+        "createdAt": "2024-11-04T12:07:53.556Z",
+        "_id": "6728be887e36666b0697faeb",
+        "reviews": [],
+        "__v": 0
+    }
+}
+
+
+
+]

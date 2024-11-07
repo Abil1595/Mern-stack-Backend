@@ -1,0 +1,53 @@
+[
+    {
+        "name": "CASSAVA CHIPS",
+        "price": 10,
+        "offerprice":5,
+        "description": "Snacks come in many forms, including packaged snack foods, processed foods, and items made from fresh ingredients.",
+        "ratings": 5,
+        "images": [
+            {
+                "image": "/images/products/2.jpg"
+            }
+        ],  
+        "category": "SNACKS",
+        "Brand": "Iyappaa", 
+        "stock": 6,  
+        "numOfReviews": 9,  
+        "reviews": [] 
+    },
+    {
+        "name": "SEA SALT",
+        "price": 10,
+        "offerprice":5,
+        "description": "Snacks come in many forms, including packaged snack foods, processed foods, and items made from fresh ingredients.",
+        "ratings": 5,
+        "images": [
+            {
+                "image": "/images/products/seasaltai.jpeg"
+            }
+        ],  
+        "category": "SNACKS",
+        "Brand": "Iyappaa", 
+        "stock": 6,  
+        "numOfReviews": 9,  
+        "reviews": [] 
+    },
+    {
+        "name": "RICE MURUKKU",
+        "price": 10,
+        "offerprice":5,
+        "description": "Snacks come in many forms, including packaged snack foods, processed foods, and items made from fresh ingredients.",
+        "ratings": 5,
+        "images": [
+            {
+                "image": "/images/products/3.jpg"
+            }
+        ],  
+        "category": "SNACKS",
+        "Brand": "Iyappaa", 
+        "stock": 6,   
+        "numOfReviews": 9,  
+        "reviews": [] 
+    }
+]
